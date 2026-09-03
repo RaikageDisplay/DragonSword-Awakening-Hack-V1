@@ -74,12 +74,6 @@ Check the Features list below.
 
 ---
 
-## Screenshots
-![Mod Menu Preview](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/blob/main/assets/image.png)
-
-
----
-
 ## FAQ
 
 
