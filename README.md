@@ -1,8 +1,8 @@
-# DragonSword : Awakening Cheats Menu (23-Sep-26)
+# DragonSword : Awakening Cheats Menu (26-Sep-26)
 
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.3/DSAW-V1.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1-blue?style=for-the-badge)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.3/DSAW-V1.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.4/DSAW-V1.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1-blue?style=for-the-badge)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.4/DSAW-V1.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/RaikageDisplay/DragonSword-Awakening-Hack-V1?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/stargazers)
 
@@ -66,10 +66,10 @@ Check the Features list below.
 ---
 
 ## How do I use itttt
-1. Download the [latest release build](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.3/DSAW-V1.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/releases/download/v1.4/DSAW-V1.zip) from repo's Releases page.
 2. Extract the contents to any folder (e.g., `C:\DragonSwordtoolssss`).
 3. Launch game.
-4. Run `DS-Awakening_1.3.exe`.
+4. Run `DS-Awakening_1.4.exe`.
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
